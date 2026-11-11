@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this platform for learning-behaviour feature extraction, please cite the software registration record."
+authors:
+  - family-names: Li
+    given-names: Yinghe
+title: "Education Data Extraction and Processing Platform (教育数据提取与处理平台) 1.0"
+type: software
+year: 2026
+repository-code: "https://github.com/lyh112358/edu-data-extraction-platform"
+url: "https://github.com/lyh112358/edu-data-extraction-platform"
+license: MIT
