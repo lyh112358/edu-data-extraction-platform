@@ -154,6 +154,17 @@ grade_label = (grade排名 >= 50%) ? 1 : 0
 2. 数据质量：输入数据中0值会被视为"未完成"状态
 3. 参数调整：根据实际数据结构调整size1/size2/size3参数
 
+## 软件著作权
+
+本仓库对应软件著作权申请 **《教育数据提取与处理平台 1.0》**，用于学习行为特征的提取、清洗与阶段化计算。申请材料与源代码归档另存于私有备份，不在本仓库公开。
+
+## 关联仓库
+
+| 仓库 | 关系 |
+|---|---|
+| [`used-datasets`](https://github.com/lyh112358/used-datasets) | 已脱敏的建模表（`ml-early-warning/private`） |
+| [`ksem2026-kinematic-risk-ensemble`](https://github.com/lyh112358/ksem2026-kinematic-risk-ensemble) | 使用本平台特征的下游论文实现 |
+
 ## 许可证
 
 MIT License
